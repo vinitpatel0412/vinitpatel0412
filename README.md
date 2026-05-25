@@ -10,7 +10,7 @@
 - **Tools**: Git, GitHub, VS Code, Postman
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitpatel0412&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinitpatel0412&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinitpatel0412&theme=tokyonight&utcOffset=5.5)
