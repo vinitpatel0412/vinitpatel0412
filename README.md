@@ -21,7 +21,7 @@
 3. **DSA Solutions** - 200+ Leetcode Problems Solved
 
 ## 📫 Connect With Me
-[[LinkedIn](https://www.linkedin.com/in/vineet-singh-253757404?utm_source=share_via&utm_content=profile&utm_medium=member_android//img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitpatel0412)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-253757404)
 [[LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vinitpatel0412)
 
 [Profile Views](https://komarev.com/ghpvc/?username=vinitpatel0412&color=blue)
