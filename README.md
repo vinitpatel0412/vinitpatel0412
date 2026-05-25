@@ -10,9 +10,10 @@
 - **Tools**: Git, GitHub, VS Code, Postman
 
 ## 📊 GitHub Stats
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitpatel0412&show_icons=true&theme=tokyonight)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitpatel0412&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitpatel0412&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinitpatel0412&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinitpatel0412&theme=tokyonight&utcOffset=5.5)
 
 ## 🔥 Current Projects
 1. **E-Commerce Clone** - MERN Stack + Stripe Payment `Coming Soon`
